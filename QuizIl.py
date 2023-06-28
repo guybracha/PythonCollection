@@ -8,7 +8,7 @@ if playing != "yes":
 print("Okay! Let's play :)")
 score = 0
 
-question_one = input("has david ben-gurion was the first PM of israel?")
+question_one = input("was david ben-gurion the first prime minister of israel?")
 if question_one == "yes":
     print("you're correct")
     score = score + 1
