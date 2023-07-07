@@ -34,7 +34,7 @@ else:
     print(score)
     quit()
 
-question_four = input("which person has been called 'the jewish state's prophet'? herzl or someone else?")
+question_four = input("which person has been called 'the jewish state's prophet'? theodore herzl or someone else?")
 if question_four == "herzl":
     print("congratulaions")
     score = score + 4
